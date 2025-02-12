@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @maiwinaung
 - 👀 I’m interested in Network & Security. 
-- 🌱 I’m currently learning CCNA Program. 
+- 🌱 I’m currently learning Python Essential Program. 
 - 💞️ I’m looking to collaborate on a specialist Network Engineer. 
-- 📫 How to reach me themai.insider@gmail.com
+- 📫 How to reach me mai.w.aung@gmail.com
 
 <!---
 maiwinaung-lab/maiwinaung-lab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
